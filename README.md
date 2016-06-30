@@ -32,7 +32,7 @@ func main() {
     u.IsPath()
     u.IsFile("jpeg", "doc")
     u.String()
-    // more example in urls_test.go
+    // more example in url_test.go
 }
 ```
 
