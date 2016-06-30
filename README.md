@@ -20,7 +20,7 @@ import (
 )
 
 func main() {
-    u := New()
+    u := urls.New()
     u.SetBase("http://example.com/path")
     u.SetAddress("http://example.org/path/file")
 
